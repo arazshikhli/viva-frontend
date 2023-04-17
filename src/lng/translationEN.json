@@ -1,0 +1,15 @@
+{
+    "home":"Home",
+    "about":"About",
+    "gallery":"Gallery",
+    "contacts":"Contact",
+    "text":"New advert",
+    "admin":"Admin",
+    "email":"Enter admin email",
+    "password":"Enter password",
+    "email_title":"Admin's email",
+    "pass_title":"Password",
+    "login_btn":"Log in",
+    "login_title":"Login Page"
+}
+    

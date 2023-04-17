@@ -1,0 +1,14 @@
+{
+    "home":"Главная",
+    "about":"О нас",
+    "gallery":"Галерея",
+    "contacts":"Связаться",
+    "text":"новая реклама",
+    "admin":"Админ",
+    "email":"email администратора",
+    "password":"Пароль админа",
+    "email_title":"email админа",
+    "pass_title":"Пароль",
+    "login_btn":"Войти",
+    "login_title":"Авторизация"
+}
